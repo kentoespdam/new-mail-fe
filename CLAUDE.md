@@ -70,3 +70,7 @@ Detailed plans in `issue/0-blueprint/`:
 4. Mailbox Engine (switchable layouts)
 5. Smart Composer (auto-save, batch recipients)
 6. Onboarding & Help (tour guide, Help FAB)
+
+## Instructions for Claude Code
+always use bun when running scripts (e.g., `bun run dev`, `bun run build`).
+always use skill `context7` when working on code in this repository. always use `bun run lint` and `bun run format` before committing code.
